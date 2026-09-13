@@ -1,0 +1,25 @@
+NDM MUTATION TSV SYNCHRONIZATION REPORT
+============================================================
+
+CSV source: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.csv
+TSV output: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.tsv
+
+Rows: 106
+Accessions: 27
+Mutation types: 82
+Unknown variants: 0
+
+NDM-16 record:
+ accession variant  reference_position reference_residue observed_residue mutation  msa_column
+A0A0K1Z5K4  NDM-16                 264                 R                H    R264H         293
+
+CHECKS
+------------------------------------------------------------
+row_count: PASS
+accession_count: PASS
+mutation_type_count: PASS
+unknown_count: PASS
+ndm16_record: PASS
+csv_tsv_identical: PASS
+
+FINAL VERDICT: PASS — TSV synchronized exactly with authoritative CSV.

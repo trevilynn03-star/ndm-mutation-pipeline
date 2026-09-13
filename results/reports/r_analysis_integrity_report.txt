@@ -1,0 +1,64 @@
+============================================================
+NDM R ANALYSIS FINAL INTEGRITY REPORT
+============================================================
+
+Date:
+Fri Sep 11 04:23:29 PM CAT 2026
+
+Project:
+/home/trevilynn-chimwe/ndm-mutation-pipeline
+
+R script:
+scripts/analyze_ndm_mutations.R
+
+Authoritative input:
+analysis/mutations/NDM_mutations.csv
+
+=== R SCRIPT CHECKSUM ===
+8474a459797703ea4b7089b43ab6635114842f9c27619fd3be03f3a159b701cb  scripts/analyze_ndm_mutations.R
+
+=== AUTHORITATIVE INPUT CHECKSUM ===
+ab2d8662a965a145186f2bd9c9b58f4d2ee4b498f6d48c01c88b8399b109b89c  analysis/mutations/NDM_mutations.csv
+
+=== ACTIVE R OUTPUTS ===
+overall_mutation_frequency.csv
+top5_mutations_per_variant.csv
+variant_counts.csv
+variant_mutation_frequency.csv
+variant_mutation_matrix_counts.csv
+variant_mutation_matrix_percentages.csv
+
+=== OUTPUT ROW COUNTS ===
+overall_mutation_frequency.csv                83
+top5_mutations_per_variant.csv                42
+variant_counts.csv                            17
+variant_mutation_frequency.csv                100
+variant_mutation_matrix_counts.csv            17
+variant_mutation_matrix_percentages.csv       17
+
+=== OUTPUT CHECKSUMS ===
+e7e48eb6bce62c81be2053ea1f0b671d692bd5214ddf66ee20e85fd043e8bc83  analysis/r/overall_mutation_frequency.csv
+53fe5170e019596406968e3bea9e1cfe0a7d84f4f98df75731187b735d9fc2fc  analysis/r/top5_mutations_per_variant.csv
+b8bbeabc2a98558dc66a6e1b7034d171f0308aa093b4e44eac47f5b74620c3fc  analysis/r/variant_counts.csv
+5b9b4e88e7d349223af8e6d24c003db8a16386115daa7353f3683be321c013be  analysis/r/variant_mutation_frequency.csv
+5251fcad6b1496f517df19744bd8b29e0cf860958fac0c872b7af19cfb52c0d7  analysis/r/variant_mutation_matrix_counts.csv
+2998aafd998bf94bd54f1b5fa99711685c025584e3a84f2d2c85f9c5902b8cde  analysis/r/variant_mutation_matrix_percentages.csv
+
+=== UNKNOWN CHECK ===
+PASS — No Unknown labels detected.
+
+=== NDM-16 / R264H CHECK ===
+analysis/r/variant_counts.csv:15:NDM-16,1
+analysis/r/variant_mutation_frequency.csv:93:NDM-16,R264H,1,1,100
+analysis/r/variant_mutation_matrix_counts.csv:15:NDM-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+analysis/r/top5_mutations_per_variant.csv:20:NDM-16,R264H,1,1,100
+analysis/r/variant_mutation_matrix_percentages.csv:15:NDM-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+analysis/r/overall_mutation_frequency.csv:64:R264H,1,3.33
+analysis/r/variant_mutation_frequency.csv:93:NDM-16,R264H,1,1,100
+analysis/r/variant_mutation_matrix_counts.csv:1:variant,A135E,A138P,A16P,A19L,A257P,A257Y,A258E,A258P,A266L,A74S,A99S,D130G,D130N,D254T,D267P,E152K,E170D,E2T,E40D,G136A,G84E,H228R,H261R,I259L,K12R,K181R,K268A,L13I,L21M,L269V,L3K,L65M,M154L,M1I,M22A,M245T,M265L,M27I,M39V,M67V,P4S,P9R,Q107R,Q37E,R256S,R264S,R270G,R81K,S14G,S244N,S24P,S255T,T15L,T260C,T260V,T262R,T34S,T41K,V10I,V155T,V247A,V88L,Y64F,A74T,G200R,G36D,G69S,R32S,M154V,G222D,D95N,A233V,R264H,E170K,R270H,P28A,A99T,L221P,P150L,A131T,A263P,D130V
+analysis/r/top5_mutations_per_variant.csv:20:NDM-16,R264H,1,1,100
+analysis/r/variant_mutation_matrix_percentages.csv:1:variant,A135E,A138P,A16P,A19L,A257P,A257Y,A258E,A258P,A266L,A74S,A99S,D130G,D130N,D254T,D267P,E152K,E170D,E2T,E40D,G136A,G84E,H228R,H261R,I259L,K12R,K181R,K268A,L13I,L21M,L269V,L3K,L65M,M154L,M1I,M22A,M245T,M265L,M27I,M39V,M67V,P4S,P9R,Q107R,Q37E,R256S,R264S,R270G,R81K,S14G,S244N,S24P,S255T,T15L,T260C,T260V,T262R,T34S,T41K,V10I,V155T,V247A,V88L,Y64F,A74T,G200R,G36D,G69S,R32S,M154V,G222D,D95N,A233V,R264H,E170K,R270H,P28A,A99T,L221P,P150L,A131T,A263P,D130V
+
+=== FINAL R ANALYSIS VERDICT ===
+PASS — Active R outputs are corrected, validated and reproducible.
+============================================================

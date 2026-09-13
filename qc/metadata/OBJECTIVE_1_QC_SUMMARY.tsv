@@ -1,0 +1,12 @@
+Stage	Source	Records_or_sequences	Excluded	Unique_or_retained	Notes
+Retrieval	NCBI	4377	0	4377	NDM-1 to NDM-20; NDM-16 had no records
+NCBI record QC	NCBI	4377	184	4193	117 PDB structure records and 67 precursor records excluded from primary biological pool
+NCBI deduplication	NCBI	4193	4135	58	Exact amino-acid sequence deduplication
+Retrieval	UniProt	73	20	53	Exact NDM-1 to NDM-20 records identified from blaNDM query
+UniProt fragment QC	UniProt	53	5	48	Fragment records retained separately from clean dataset
+UniProt deduplication	UniProt	48	29	19	19 unique amino-acid sequences
+NCBI-UniProt overlap	NCBI+UniProt	77	18	59	18 UniProt unique sequences exactly matched NCBI; 1 new UniProt sequence
+Retrieval	BLDB	21	0	21	NDM-1 to NDM-20 including NDM-16a and NDM-16b
+BLDB overlap	BLDB	21	20	1	1 new sequence: NDM-16b AMO51458.1
+Combined candidate dataset	NCBI+UniProt+BLDB	60	0	60	Provisional unique sequence-diversity dataset
+Partial QC	Combined	59	21	38	21 unique sequences explicitly marked partial

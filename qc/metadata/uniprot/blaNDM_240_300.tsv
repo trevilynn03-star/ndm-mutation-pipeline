@@ -1,0 +1,74 @@
+Entry	Entry Name	Protein names	Gene Names	Length	Organism
+C7C422	BLAN1_KLEPN	Metallo-beta-lactamase type 2 (EC 3.5.2.6) (B2 metallo-beta-lactamase) (Beta-lactamase type II) (Metallo-beta-lactamase NDM-1) (Metallo-beta-lactamase type II) (New Delhi metallo-beta-lactamase-1) (NDM-1)	blaNDM-1	270	Klebsiella pneumoniae
+A0A2P1H1P0	A0A2P1H1P0_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-20 blaNDM	270	Escherichia coli
+A0A1P8C735	A0A1P8C735_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM blaNDM-17	270	Escherichia coli
+A0A1P8VH15	A0A1P8VH15_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	275	Escherichia coli
+A0A5K6W925	A0A5K6W925_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Escherichia coli
+A0A5Q0MV96	A0A5Q0MV96_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella pneumoniae
+A0A8G1A6Z8	A0A8G1A6Z8_ACIBA	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Acinetobacter baumannii
+A0A140IHH4	A0A140IHH4_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Escherichia coli
+A0A1Z3FWF5	A0A1Z3FWF5_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Escherichia coli
+A0A2Z4BV56	A0A2Z4BV56_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella pneumoniae
+A0A3G3C0Q6	A0A3G3C0Q6_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Escherichia coli
+A0A2S1T3V3	A0A2S1T3V3_ENTCL	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Enterobacter cloacae
+A0A291NY14	A0A291NY14_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Escherichia coli
+A0A5K6VNM3	A0A5K6VNM3_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella pneumoniae
+A0A8G1A6Q8	A0A8G1A6Q8_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella pneumoniae
+A0A2Z4BV07	A0A2Z4BV07_PROST	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Providencia stuartii
+A0A410SN60	A0A410SN60_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella pneumoniae
+A0A7U3SUP9	A0A7U3SUP9_KLEOX	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Klebsiella oxytoca
+A0A7U3SV85	A0A7U3SV85_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Citrobacter werkmanii
+A0A8F1D5U2	A0A8F1D5U2_PRORE	beta-lactamase (EC 3.5.2.6)	blaNDM	270	Providencia rettgeri
+A0A024FRL9	A0A024FRL9_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-12	270	Escherichia coli
+E9MW54	E9MW54_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-1	250	Klebsiella pneumoniae
+A0A0G2ST15	A0A0G2ST15_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-4	270	Klebsiella pneumoniae
+A0A0K1Z5K4	A0A0K1Z5K4_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-16	270	Klebsiella pneumoniae
+A0A7T1X4S0	A0A7T1X4S0_CITFR	beta-lactamase (EC 3.5.2.6)	blaNDM-11	270	Citrobacter freundii
+E9MW55	E9MW55_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-1	245	Klebsiella pneumoniae
+G9JVE6	G9JVE6_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-6	270	Escherichia coli
+A0A0A7Y424	A0A0A7Y424_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-1	264	Escherichia coli
+A0A8D6APR8	A0A8D6APR8_KLEAE	beta-lactamase (EC 3.5.2.6)	blaNDM-4	270	Klebsiella aerogenes (Enterobacter aerogenes)
+F2YZ26	F2YZ26_ACIBA	beta-lactamase (EC 3.5.2.6)	blaNDM-2	270	Acinetobacter baumannii
+M4JT39	M4JT39_PSEAI	beta-lactamase (EC 3.5.2.6)	blaNDM-1	265	Pseudomonas aeruginosa
+V9SCA3	V9SCA3_ENTCL	beta-lactamase (EC 3.5.2.6)	blaNDM-1	265	Enterobacter cloacae
+A0A0C5H135	A0A0C5H135_ACILW	beta-lactamase (EC 3.5.2.6)	blaNDM-14	270	Acinetobacter lwoffii
+H6VYQ1	H6VYQ1_ACILW	beta-lactamase (EC 3.5.2.6)	blaNDM-1	270	Acinetobacter lwoffii
+U3LM85	U3LM85_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM-1	270	Enterobacter ludwigii
+U5TTL2	U5TTL2_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-5	270	Klebsiella pneumoniae
+A0A0F6ZNP0	A0A0F6ZNP0_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-15	270	Escherichia coli
+A0A0R8XYE3	A0A0R8XYE3_9GAMM	beta-lactamase (EC 3.5.2.6)	blaNDM-1	270	Acinetobacter soli
+H6WET3	H6WET3_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-6	264	Escherichia coli
+J7I0S9	J7I0S9_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-7	270	Escherichia coli
+M1VE66	M1VE66_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-8	270	Escherichia coli
+S0F2B6	S0F2B6_SALET	beta-lactamase (EC 3.5.2.6)	blaNDM-1	270	Salmonella enterica subsp. enterica serovar Corvallis
+S5ZIP8	S5ZIP8_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-10	270	Klebsiella pneumoniae subsp. pneumoniae
+X5CZV5	X5CZV5_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-7	270	Klebsiella pneumoniae
+W8LAN3	W8LAN3_ACICA	beta-lactamase (EC 3.5.2.6)	blaNDM-1 blaNDM1	270	Acinetobacter calcoaceticus
+F6IAY7	F6IAY7_PSEAI	beta-lactamase (EC 3.5.2.6)	blaNDM-1 blaNDM1	270	Pseudomonas aeruginosa
+A0A3A8EQ15	A0A3A8EQ15_9GAMM	beta-lactamase (EC 3.5.2.6)	blaNDM D7V20_18975	249	Acinetobacter rongchengensis
+A0A0B4ZUY6	A0A0B4ZUY6_SERMA	beta-lactamase (EC 3.5.2.6)	blaNDM-1 AN695_0225845	270	Serratia marcescens
+A0A9N8GYP9	A0A9N8GYP9_PRORE	beta-lactamase (EC 3.5.2.6)	blaNDM-1 GHA_04172	270	Providencia rettgeri
+A0ABN7GT79	A0ABN7GT79_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM-1 GHA_04793	270	Citrobacter youngae
+I3VKD5	I3VKD5_ECOLX	beta-lactamase (EC 3.5.2.6)	NDM-3 blaNDM-3	270	Escherichia coli
+H9BVE1	H9BVE1_ACIHA	beta-lactamase (EC 3.5.2.6)	blaNDM-1 ABC7926_0003	270	Acinetobacter haemolyticus
+A0ABM7W3K7	A0ABM7W3K7_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM-1 PDTA9734_56600	270	Phytobacter diazotrophicus
+A0A0A8J940	A0A0A8J940_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-13 QO046_28520	270	Escherichia coli
+A0A3T0VDQ5	A0A3T0VDQ5_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM-1 TML_05949	270	Citrobacter werkmanii
+E7E277	E7E277_ACIJU	beta-lactamase (EC 3.5.2.6)	blaNDM-1 H2677_15935	270	Acinetobacter junii
+R4L303	R4L303_KLEAE	beta-lactamase (EC 3.5.2.6)	blaNDM-1 p3SP-NDM_0009	270	Klebsiella aerogenes (Enterobacter aerogenes)
+T2A6Y2	T2A6Y2_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-9 NDM-pph1303_1	270	Klebsiella pneumoniae subsp. pneumoniae
+W0FF89	W0FF89_ACIBZ	beta-lactamase (EC 3.5.2.6)	blaNDM-1 ABCA242_0003 I9054_022540	270	Acinetobacter bereziniae (Acinetobacter genomosp. 10)
+W8SMM4	W8SMM4_KLEOX	beta-lactamase (EC 3.5.2.6)	blaNDM-1 RYF40_006135 RYF40_006221	270	Klebsiella oxytoca
+M1RCY7	M1RCY7_9ENTR	beta-lactamase (EC 3.5.2.6)	blaNDM-1 AA409_0034 CGZ54_27715	270	Enterobacter hormaechei
+A0A0B4ZV32	A0A0B4ZV32_PROMI	beta-lactamase (EC 3.5.2.6)	blaNDM-1 NDM-1 I3679_019825	270	Proteus mirabilis
+H6WZS9	H6WZS9_ECOLX	beta-lactamase (EC 3.5.2.6)	bla(NDM-4) blaNDM-4 NDM-4	270	Escherichia coli
+I3V6N6	I3V6N6_ACIPI	beta-lactamase (EC 3.5.2.6)	blaNDM-1 ABC8415_0021 JDA50_20930 MWH18_03795	270	Acinetobacter pittii (Acinetobacter genomosp. 3)
+G3K399	G3K399_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-5 blaNDM CWS33_26475 EIZ93_26035 ID255_p0115 NY836_15970 pEC1929_0014 PWL68_005154 PWL68_005368 TUM18780_51250	270	Escherichia coli
+J7LFC7	J7LFC7_CITFR	beta-lactamase (EC 3.5.2.6)	blaNDM-1 NDM-1 p112298NDM_022 pCFNDM-CN_0021 RYZ67_27475	270	Citrobacter freundii
+H6BEJ7	H6BEJ7_ENTCL	beta-lactamase (EC 3.5.2.6)	blaNDM-1 P3S46_08705 pCRE727_21 pNDM1_EC14653_00114 pYQ13500_022	270	Enterobacter cloacae
+I0CCE1	I0CCE1_PRORE	beta-lactamase (EC 3.5.2.6)	blaNDM-1 09AY2001NDM_056 AOY08_100023 EX242_14345 OGX73_23865 QDQ51_21230	270	Providencia rettgeri
+A0A8E7DD97	A0A8E7DD97_ECOLX	Subclass B1 metallo-beta-lactamase NDM-35	blaNDM	270	Escherichia coli
+A0A8E7DAJ6	A0A8E7DAJ6_VIBPH	Subclass B1 metallo-beta-lactamase NDM-34	blaNDM	270	Vibrio parahaemolyticus
+F8UNN7	F8UNN7_ACIBA	beta-lactamase (EC 3.5.2.6)	NDM-1 blaNDM-1 ABC3229_0003 ABR2091_3046 CBE85_20035 DOL94_02685 GSE42_20110 IAG11_18570 J6E47_00640 pNDM-AB_009	270	Acinetobacter baumannii
+E5KIY2	E5KIY2_ECOLX	beta-lactamase (EC 3.5.2.6)	blaNDM-1 bla NDM-1 AZ95_0035 BANRA_05542 E4K51_24975 ECS01_0033 G5603_25730 NDM1Dok01_N0175 P6223_005359 P6223_006060 pNDM102337_147 pNDM10505_149 RZR61_25285	270	Escherichia coli
+E9NWK5	E9NWK5_KLEPN	beta-lactamase (EC 3.5.2.6)	blaNDM-1 bla bla NDM-1 blaNDM1 NDM-1 D647_p47098 EA160_27265 EC13450_007 G4V31_29050 MYA94_26190 NCTC13443_00040 NUITMVK2_3600 p2146_00143 pCRE380_21 pN11x00042NDM_090 pNDM-SX04_5 pNDM10469_138 SAMEA3499901_05193 TR3_031 TR4_031	270	Klebsiella pneumoniae

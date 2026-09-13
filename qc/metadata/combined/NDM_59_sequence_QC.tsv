@@ -1,0 +1,60 @@
+accession	length	status
+CBZ39493.1 metallo-beta-lactamase NDM-1 [Pseudomonas aeruginosa]	270	partial
+AEQ39149.1 metallobetalactamase NDM-1, partial [Klebsiella pneumoniae]	248	partial
+AEQ39155.1 metallobetalactamase NDM-1, partial [Klebsiella pneumoniae]	241	partial
+AEQ39156.1 metallobetalactamase NDM-1, partial [Klebsiella pneumoniae]	248	partial
+AGB57443.1 metallo-beta-lactamase NDM-1, partial [Chryseobacterium indologenes]	265	partial
+AGC54622.1 metallobetalactamase NDM-1 [Klebsiella pneumoniae]	270	partial
+AGD80054.1 metallo-beta-lactamase NDM-1, partial [Pseudomonas aeruginosa]	254	partial
+AGD80055.1 metallo-beta-lactamase NDM-1, partial [Pseudomonas aeruginosa]	250	partial
+AHC53896.1 metallo-beta-lactamase NDM-1, partial [Enterobacter cloacae]	265	partial
+ALD19744.1 metallo-beta-lactamase NDM-1 [Escherichia coli]	244	complete_or_unclassified
+ALD19783.1 metallo-beta-lactamase NDM-1 [Acinetobacter baumannii]	271	complete_or_unclassified
+ALD19865.1 metallo-beta-lactamase NDM-1 (plasmid) [Pseudocitrobacter faecalis]	264	complete_or_unclassified
+ALQ87875.1 subclass B1 metallo-beta-lactamase NDM-1 (plasmid) [Klebsiella pneumoniae]	270	partial
+OAI32049.1 subclass B1 metallo-beta-lactamase NDM-1 [Escherichia coli]	270	partial
+ANF80532.1 subclass B1 metallo-beta-lactamase NDM-1 (plasmid) [Salmonella enterica]	270	partial
+OES48450.1 subclass B1 metallo-beta-lactamase NDM-1 [Pseudomonas aeruginosa]	267	partial
+APT66221.1 beta-metallo-lactamase NDM-1, partial [Klebsiella pneumoniae subsp. pneumoniae]	247	partial
+APX52901.1 carbapenem-hydrolyzing metallo-beta-lactamase NDM-1, partial (plasmid) [Klebsiella pneumoniae]	249	partial
+AQY04153.1 metallo-beta-lactamase NDM-1, partial [Stenotrophomonas maltophilia]	246	partial
+PIL47384.1 subclass B1 metallo-beta-lactamase NDM-1, partial [Acinetobacter baumannii]	256	partial
+PIL65196.1 subclass B1 metallo-beta-lactamase NDM-1 [Acinetobacter baumannii]	259	complete_or_unclassified
+PIL86686.1 subclass B1 metallo-beta-lactamase NDM-1 [Acinetobacter baumannii]	267	complete_or_unclassified
+PIW54870.1 MAG: subclass B1 metallo-beta-lactamase NDM-1 [Sphingomonadales bacterium CG12_big_fil_rev_8_21_14_0_65_65_10]	244	partial
+AUT31155.1 beta-lactamase NDM-1 [cloning vector pBAD-kan-BlaP-NDM-1]	267	complete_or_unclassified
+AVG45349.1 beta-metallo-lactamase NDM-1, partial [Klebsiella pneumoniae subsp. pneumoniae]	244	partial
+AVG45350.1 beta-metallo-lactamase NDM-1, partial [Klebsiella pneumoniae subsp. pneumoniae]	249	partial
+AVG45351.1 beta-metallo-lactamase NDM-1, partial [Klebsiella pneumoniae subsp. pneumoniae]	246	partial
+AWO67555.1 carbapenemase NDM-1, partial [Klebsiella pneumoniae subsp. pneumoniae]	252	partial
+BBE58699.1 Subclass B1 beta-lactamase, NDM-1 (plasmid) [Klebsiella pneumoniae]	287	complete_or_unclassified
+AXM05390.1 metallo-beta-lactamase NDM-1, partial [Morganella morganii]	245	partial
+AXM05409.1 beta-lactamase NDM-1, partial [Enterobacter kobei]	240	partial
+QIM11779.1 Metallo Beta Lactamase NDM-1 (plasmid) [Klebsiella pneumoniae]	270	partial
+QVQ60280.1 subclass B1 metallo-beta-lactamase NDM-1 (plasmid) [Enterobacter cloacae complex sp.]	244	partial
+AEA41876.1 NDM-2 metallo-beta-lactamase [Acinetobacter baumannii]	270	partial
+AFK80349.1 NDM-3 metallo-beta-lactamase (plasmid) [Escherichia coli]	270	partial
+AMO51457.1 beta-lactamase NDM-3 [Acinetobacter baumannii]	270	partial
+AFB82585.1 metallo-beta-lactamase NDM-4 [Escherichia coli]	270	partial
+AHZ10948.1 metallo-beta-lactamase NDM-5, partial [Escherichia coli]	255	partial
+ASR12244.1 beta-lactamase NDM-5, partial [Escherichia coli]	251	partial
+ASR12245.1 beta-lactamase NDM-5, partial [Escherichia coli]	245	partial
+AUT31257.1 beta-lactamase NDM-5 [cloning vector pBAD-kan-BlaP-NDM-5]	267	complete_or_unclassified
+AXH80118.1 New Delhi metallo-beta-lactamase NDM-5 [Escherichia coli]	270	partial
+AYK27732.1 Beta-lactamase NDM-5 (plasmid) [Klebsiella pneumoniae]	264	complete_or_unclassified
+AYU88714.1 NDM-5 metallo-beta-lactamase (plasmid) [Escherichia coli]	271	complete_or_unclassified
+AYU88743.1 subclass B1 metallo-beta-lactamase NDM-5 (plasmid) [Klebsiella pneumoniae]	270	partial
+AEY83746.1 NDM-6 metallo-beta-lactamase, partial (plasmid) [Escherichia coli]	264	partial
+AGS56768.1 NDM-6 metallo-beta-lactamase (plasmid) [Escherichia coli]	270	partial
+BAM84089.1 NDM-8 metallo-beta-lactamase (plasmid) [Escherichia coli]	270	partial
+AGT37351.1 metallo-beta-lactamase NDM-10 [Klebsiella pneumoniae subsp. pneumoniae]	270	partial
+AJE61443.1 metallo-beta-lactamase NDM-11 [Escherichia coli]	270	partial
+BAO79439.1 metallo-beta-lactamase NDM-12 (plasmid) [Escherichia coli]	270	partial
+BAQ02518.1 metallo-beta-lactamase NDM-13 (plasmid) [Escherichia coli]	270	partial
+WP_063860857.1 MULTISPECIES: subclass B1 metallo-beta-lactamase NDM-14 [Gammaproteobacteria]	270	partial
+WP_063860858.1 subclass B1 metallo-beta-lactamase NDM-15 [Escherichia coli]	270	partial
+AOT73359.1 subclass B1 metallo-beta-lactamase NDM-17 [Escherichia coli]	270	partial
+AVN57295.1 NDM-17 (plasmid) [Escherichia coli]	270	partial
+APZ75411.1 subclass B1 metallo-beta-lactamase NDM-18 [Escherichia coli]	275	complete_or_unclassified
+ASC49561.1 subclass B1 metallo-beta-lactamase NDM-19 [Escherichia coli]	270	partial
+tr|A0A0K1Z5K4|A0A0K1Z5K4_KLEPN beta-lactamase OS=Klebsiella pneumoniae OX=573 GN=blaNDM-16 PE=3 SV=1	270	partial

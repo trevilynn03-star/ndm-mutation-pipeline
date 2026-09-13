@@ -1,0 +1,17 @@
+Date: Sat Sep  5 09:48:54 AM CAT 2026
+OS:
+Ubuntu 24.04.4 LTS
+Python:
+Python 3.12.3
+Biopython:
+1.88
+Pandas:
+3.0.5
+NumPy:
+2.5.2
+SeqKit:
+seqkit v2.13.0
+MAFFT:
+v7.505 (2022/Apr/10)
+EDirect:
+26.2

@@ -1,0 +1,55 @@
+NDM DATASET LOCK
+================
+
+Date: Sat Sep  5 07:20:14 PM CAT 2026
+
+Primary source:
+qc/deduplication/combined/NDM_primary_59_unique.fasta
+
+Primary records:
+59
+
+Exclusion list:
+qc/final_dataset/excluded_primary_accessions.txt
+
+Excluded records:
+29
+
+Final primary dataset:
+qc/final_dataset/NDM_primary_dataset.fasta
+
+Final records:
+30
+
+Dataset rule:
+FINAL = PRIMARY 59 - EXCLUDED 29
+
+BLDB secondary/reference:
+AMO51458.1 = NDM-16b
+
+BLDB NDM-16b is NOT included in the primary 30.
+
+Current final before correction:
+33
+
+Records corrected out:
+AEY83746.1
+AYK27732.1
+
+Reason:
+Both occur in the exclusion list and therefore must not occur
+in the primary final dataset.
+
+The previous 33-record final also contained BLDB NDM-16b,
+which is retained separately as a secondary/reference record.
+
+QC:
+- 30 final sequences
+- no duplicate accessions
+- no identical duplicate sequences
+- no header-labelled partial sequences
+- all 29 exclusions verified against primary
+- all exclusions removed from final
+
+Backup:
+archive/dataset_correction_20260905_192014

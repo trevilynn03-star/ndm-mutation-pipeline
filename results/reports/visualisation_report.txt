@@ -1,0 +1,25 @@
+NDM MUTATION VISUALISATION REPORT
+============================================================
+
+Mutation input: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.csv
+Primary metadata: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/reference/primary_sequences.tsv
+MSA: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/msa/NDM_MSA.fasta
+
+Primary sequences: 30
+Mutation observations: 106
+Mutation-bearing accessions: 27
+Unique mutation types: 82
+NDM variants: 17
+
+NDM-16 check: PASS — A0A0K1Z5K4 = NDM-16 / R264H
+
+Figures generated:
+figure1_variant_composition
+figure2_top_mutations
+figure3_mutation_landscape
+figure4_mutation_burden
+figure5_variant_mutation_heatmap
+figure6_mutation_cooccurrence
+figure7_ndm_mutation_summary
+
+REPORT STATUS: PASS — Visualisation completed successfully.

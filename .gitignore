@@ -1,0 +1,41 @@
+# Python environments
+ndm-env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R temporary/session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Streamlit local files
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local development artifacts
+.ipynb_checkpoints/
+
+# Generated local cache
+.cache/
+
+# Local development tooling
+.agents/
+
+# NCBI temporary/batch retrieval artifacts
+raw/ncbi/named_variants/batches/
+raw/ncbi/named_variants/*.tmp
