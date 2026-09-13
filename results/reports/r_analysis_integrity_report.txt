@@ -6,7 +6,7 @@ Date:
 Fri Sep 11 04:23:29 PM CAT 2026
 
 Project:
-/home/trevilynn-chimwe/ndm-mutation-pipeline
+NDM mutation analysis pipeline
 
 R script:
 scripts/analyze_ndm_mutations.R

@@ -1,9 +1,9 @@
 NDM MUTATION VISUALISATION REPORT
 ============================================================
 
-Mutation input: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.csv
-Primary metadata: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/reference/primary_sequences.tsv
-MSA: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/msa/NDM_MSA.fasta
+Mutation input: analysis/mutations/NDM_mutations.csv
+Primary metadata: analysis/reference/primary_sequences.tsv
+MSA: analysis/msa/NDM_MSA.fasta
 
 Primary sequences: 30
 Mutation observations: 106

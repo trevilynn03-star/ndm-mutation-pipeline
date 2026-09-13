@@ -1,8 +1,8 @@
 NDM MUTATION TSV SYNCHRONIZATION REPORT
 ============================================================
 
-CSV source: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.csv
-TSV output: /home/trevilynn-chimwe/ndm-mutation-pipeline/analysis/mutations/NDM_mutations.tsv
+CSV source: analysis/mutations/NDM_mutations.csv
+TSV output: analysis/mutations/NDM_mutations.tsv
 
 Rows: 106
 Accessions: 27
