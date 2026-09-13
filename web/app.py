@@ -1,4 +1,5 @@
 from io import StringIO
+from pathlib import Path
 
 import pandas as pd
 import streamlit as st
@@ -587,6 +588,52 @@ else:
         st.caption(
             "Validated visual summaries generated from the locked "
             "NDM mutation-analysis dataset."
+        )
+
+        # ------------------------------------------------
+        # Download all R visualisations
+        # ------------------------------------------------
+
+        import io
+        import zipfile
+
+        figure_names = [
+            "figure1_variant_composition",
+            "figure2_top_mutations",
+            "figure3_mutation_landscape",
+            "figure4_mutation_burden",
+            "figure5_variant_mutation_heatmap",
+            "figure6_mutation_cooccurrence",
+            "figure7_ndm_mutation_summary",
+        ]
+
+        figures_dir = Path("results/figures")
+
+        zip_buffer = io.BytesIO()
+
+        with zipfile.ZipFile(
+            zip_buffer,
+            mode="w",
+            compression=zipfile.ZIP_DEFLATED,
+        ) as zip_file:
+
+            for figure_name in figure_names:
+                figure_path = figures_dir / f"{figure_name}.png"
+
+                if figure_path.exists():
+                    zip_file.write(
+                        figure_path,
+                        arcname=figure_path.name,
+                    )
+
+        zip_data = zip_buffer.getvalue()
+
+        st.download_button(
+            label="Download all R visualisations (ZIP)",
+            data=zip_data,
+            file_name="NDM_visualisations.zip",
+            mime="application/zip",
+            key="download_all_r_visualisations",
         )
 
         st.markdown("### 7.1 Variant composition")
